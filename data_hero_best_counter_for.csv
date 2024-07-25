@@ -1,126 +1,126 @@
-Hero,Pick Rate,Win Rate,Ban Rate,Best Counter For
-Lolita,0.69%,62.98%,6.75%,"['Granger', 'Cyclops', 'Diggie', 'Bane', 'Bruno']"
-Freya,0.99%,59.53%,57.75%,"['Faramis', 'Diggie', 'Mathilda', 'Balmond', 'Estes']"
-Zhask,1.94%,59.47%,63.89%,"['Lolita', 'Alice', 'Phoveus', 'Jawhead', 'Zhuxin']"
-Chip,0.66%,57.62%,70.51%,"['Baxia', 'Aldous', 'Grock', 'Hayabusa', 'Valentina']"
-Edith,1.52%,56.71%,2.95%,"['Alice', 'Julian', 'Belerick', 'Fredrinn', 'Hayabusa']"
-Diggie,0.49%,56.06%,13.77%,"['Karrie', 'Silvanna', 'Eudora', 'Karina', 'Alpha']"
-Zhuxin,0.91%,55.65%,85.99%,"['Natalia', 'Lolita', 'Aldous', 'Barats', 'Aulus']"
-Harith,1.45%,54.87%,5.61%,"['Grock', 'Atlas', 'X.Borg', 'Terizla', 'Alpha']"
-Ruby,2.85%,54.82%,13.17%,"['Joy', 'Sun', 'Hayabusa', 'Gloo', 'Masha']"
-Terizla,3.86%,54.79%,34.36%,"['Popol and Kupa', 'Hilda', 'Baxia', 'Khufra', 'Johnson']"
-Faramis,0.49%,54.59%,0.55%,"['Gloo', 'Kimmy', 'Valir', 'Sun', 'Minsitthar']"
-Popol and Kupa,0.86%,54.47%,11.55%,"['Balmond', 'Zilong', 'Phoveus', 'Harley', 'Cyclops']"
-Yve,0.18%,54.07%,0.06%,"['Balmond', 'Belerick', 'Jawhead', 'Alice', 'Hanabi']"
-Hylos,0.94%,54.05%,11.50%,"['Eudora', 'Layla', 'Cyclops', 'Vale', 'Aamon']"
-Floryn,1.59%,53.70%,17.38%,"['Alice', 'Aulus', 'Phoveus', 'Martis', 'Faramis']"
-Masha,0.30%,53.19%,0.85%,"['Gloo', 'Silvanna', 'Fanny', 'Dyrroth', 'Phoveus']"
-Ling,0.85%,52.97%,97.58%,"['Hanzo', 'Balmond', 'Gord', 'Kimmy', 'Wanwan']"
-Moskov,2.61%,52.82%,4.68%,"['Gloo', 'Hanzo', 'Joy', 'Balmond', 'Khufra']"
-Joy,0.50%,52.29%,0.78%,"['Grock', 'Hanzo', 'Uranus', 'Hanabi', 'Sun']"
-Nolan,1.08%,52.23%,3.62%,"['Balmond', 'Yve', 'Faramis', 'Floryn', 'Rafaela']"
-Alice,0.15%,52.16%,0.09%,"['Jawhead', 'Uranus', 'Natalia', 'Belerick', 'Argus']"
-Bane,1.77%,52.07%,2.37%,"['Phoveus', 'Khufra', 'Faramis', 'Fanny', 'Wanwan']"
-Natan,1.00%,51.98%,0.75%,"['Sun', 'Valir', 'Hanabi', 'Balmond', 'Phoveus']"
-Bruno,0.62%,51.96%,0.08%,"['Aulus', 'Kimmy', 'Paquito', 'Balmond', 'Valentina']"
-Mathilda,1.46%,51.86%,21.84%,"['Valir', 'Atlas', 'X.Borg', 'Carmilla', 'Lylia']"
-Yi Sun-shin,0.48%,51.81%,0.15%,"['Badang', 'Vale', 'Valir', 'Benedetta', 'Aulus']"
-Argus,0.47%,51.72%,1.10%,"['Guinevere', 'Aldous', 'Nolan', 'Hanzo', 'Arlott']"
-Phoveus,0.07%,51.67%,0.03%,"['Kimmy', 'Guinevere', 'Aldous', 'Martis', 'Hilda']"
-Arlott,1.14%,51.39%,0.91%,"['Phoveus', 'X.Borg', 'Terizla', 'Ling', 'Kaja']"
-Ixia,0.42%,51.34%,0.20%,"['Kaja', 'Estes', 'Alice', 'Phoveus', 'Popol and Kupa']"
-Lunox,1.36%,51.18%,1.15%,"['Esmeralda', 'Alice', 'Hanzo', 'Cyclops', 'Mathilda']"
-Aurora,0.33%,51.05%,0.06%,"['Phoveus', 'Sun', 'Lolita', 'Minsitthar', 'Guinevere']"
-Minotaur,1.56%,50.86%,3.38%,"['Aulus', 'Jawhead', 'Popol and Kupa', 'Lolita', 'Diggie']"
-Hayabusa,1.13%,50.80%,92.83%,"['Gord', 'Hanabi', 'Vale', 'Granger', 'Atlas']"
-Khaleed,0.58%,50.80%,0.11%,"['Uranus', 'Gord', 'Badang', 'Gusion', 'Natalia']"
-Vexana,1.43%,50.72%,0.68%,"['Gloo', 'Freya', 'Alucard', 'Odette', 'Phoveus']"
-Roger,4.21%,50.53%,46.15%,"['Hilda', 'Johnson', 'Eudora', 'Irithel', 'Hanabi']"
-Luo Yi,0.79%,50.40%,2.05%,"['Estes', 'Faramis', 'Phoveus', 'Uranus', 'Fredrinn']"
-Odette,0.53%,50.19%,0.10%,"['Rafaela', 'Phoveus', 'Balmond', 'Aamon', 'Baxia']"
-Fredrinn,0.50%,50.12%,0.77%,"['Hilda', 'Phoveus', 'Kimmy', 'Uranus', 'Vale']"
-Angela,1.85%,50.01%,15.61%,"['Balmond', 'Lancelot', 'Alice', 'Phoveus', 'Belerick']"
-Irithel,0.24%,49.95%,0.03%,"['Rafaela', 'Sun', 'Kimmy', 'Alice', 'Aulus']"
-Gloo,0.19%,49.90%,0.11%,"['Jawhead', 'Nana', 'Vale', 'Odette', ""Chang'e""]"
-Aamon,0.60%,49.73%,1.50%,"['Cici', 'Ling', 'Uranus', 'Hanzo', 'Diggie']"
-Barats,0.31%,49.68%,0.31%,"['Silvanna', 'Eudora', 'Miya', 'Odette', 'Vale']"
-Aldous,0.21%,49.67%,0.08%,"['Hanzo', 'Yve', 'Novaria', 'Gord', 'Gloo']"
-Carmilla,0.88%,49.51%,1.22%,"['Popol and Kupa', 'Eudora', 'Jawhead', 'Hilda', 'Aamon']"
-Alucard,1.07%,49.50%,0.70%,"['Natalia', 'Nolan', 'Cici', 'Sun', 'Aulus']"
-Harley,0.45%,49.49%,0.49%,"['Balmond', 'Phoveus', 'Badang', 'Hanzo', 'Yve']"
-Melissa,0.47%,49.42%,0.19%,"['Sun', 'Aldous', 'Masha', 'Alucard', 'Hilda']"
-Valentina,1.78%,49.32%,1.02%,"['Grock', 'Atlas', 'X.Borg', 'Carmilla', 'Lylia']"
-Grock,0.52%,49.31%,0.13%,"['Aulus', 'Vale', 'Thamuz', 'Ixia', 'Melissa']"
-Natalia,0.16%,49.29%,0.33%,"['Baxia', 'Hanzo', 'Minsitthar', 'Yve', 'Beatrix']"
-Rafaela,0.15%,49.24%,0.08%,"['Hilda', 'Faramis', 'Thamuz', 'Valir', 'Akai']"
-Benedetta,1.06%,49.09%,0.44%,"['Silvanna', 'Vale', 'Valir', 'Aurora', 'Hanzo']"
-Fanny,1.43%,49.09%,51.39%,"['Balmond', 'Nolan', 'Yve', 'Alice', 'Carmilla']"
-Cecilion,0.73%,49.04%,0.14%,"['Sun', 'Lolita', 'Rafaela', 'Karina', 'Hanabi']"
-Novaria,0.70%,48.89%,0.13%,"['Aulus', 'Luo Yi', 'Barats', 'Balmond', 'Gord']"
-Brody,0.92%,48.82%,0.10%,"['Uranus', 'Aulus', 'Irithel', 'Hilda', 'Cici']"
-Lylia,0.87%,48.77%,0.16%,"['Baxia', 'Balmond', 'Aulus', 'Miya', 'Hilda']"
-Kaja,0.22%,48.67%,0.11%,"['Balmond', 'Hilda', 'Rafaela', 'Zilong', 'Wanwan']"
-Gatotkaca,0.68%,48.67%,0.40%,"['Zilong', 'Franco', 'Badang', 'Layla', 'Lolita']"
-Leomord,0.47%,48.48%,0.14%,"['Guinevere', 'Balmond', 'Gloo', 'Karina', 'Hanabi']"
-Kagura,1.19%,48.47%,0.30%,"['Silvanna', 'Badang', 'Wanwan', 'Hanzo', 'Kadita']"
-Khufra,1.23%,48.47%,0.77%,"['Silvanna', 'Hilda', 'Alucard', 'Layla', 'Guinevere']"
-Granger,0.49%,48.44%,0.08%,"['Balmond', 'Diggie', 'Rafaela', 'Baxia', 'Alpha']"
-Kimmy,0.12%,48.42%,0.04%,"['Balmond', 'Wanwan', 'Cyclops', 'Thamuz', 'Aulus']"
-Alpha,1.07%,48.38%,0.18%,"['Phoveus', 'Hilda', 'Baxia', 'Gatotkaca', 'Barats']"
-Yu Zhong,2.10%,48.30%,2.69%,"['Aulus', 'Popol and Kupa', 'Belerick', 'Granger', 'Hylos']"
-Sun,0.30%,48.29%,0.14%,"['Balmond', 'Masha', 'Hanzo', 'Hilda', 'Eudora']"
-Claude,2.55%,48.27%,0.41%,"['Balmond', 'Phoveus', 'Atlas', 'Melissa', 'Hanabi']"
-Gord,0.18%,48.20%,0.04%,"['Pharsa', 'Hanzo', 'Alice', 'Hilda', 'Phoveus']"
-Xavier,2.72%,48.20%,8.49%,"['Barats', 'Zhask', 'Baxia', 'Hylos', 'Atlas']"
-Aulus,0.07%,47.98%,0.03%,"['Balmond', 'Yve', 'Chip', 'Badang', 'Akai']"
-Akai,0.34%,47.86%,0.12%,"['Atlas', 'Silvanna', 'Jawhead', 'Hilda', 'Kadita']"
-Helcurt,0.93%,47.85%,43.18%,"['Hanzo', 'Layla', 'Granger', 'Gord', 'Xavier']"
-Miya,0.42%,47.65%,0.38%,"['Faramis', 'Masha', 'Balmond', 'Moskov', 'Yi Sun-shin']"
-Julian,2.16%,47.64%,59.59%,"['Zilong', 'Miya', 'Cici', 'Ling', 'Sun']"
-Pharsa,0.42%,47.62%,0.07%,"['Aulus', 'Phoveus', 'Melissa', 'Alice', 'Valir']"
-Chou,1.04%,47.58%,0.24%,"['Hanzo', 'Valir', 'Freya', 'Uranus', 'Balmond']"
-Clint,1.37%,47.58%,0.93%,"['Belerick', 'Karina', 'Masha', 'Aurora', 'Freya']"
-Yin,0.55%,47.50%,2.59%,"['Yve', 'Alucard', 'Lolita', 'Hayabusa', 'Xavier']"
-Minsitthar,0.46%,47.39%,0.72%,"['Freya', 'Hilda', 'Uranus', 'Phoveus', 'Lolita']"
-Kadita,0.60%,47.18%,0.10%,"['Odette', 'Aulus', 'Johnson', 'Lolita', 'Aurora']"
-Dyrroth,0.99%,47.08%,0.91%,"['Uranus', 'Alice', 'Lolita', 'Estes', 'Arlott']"
-Vale,0.21%,46.96%,0.03%,"['Alucard', 'Odette', 'Hilda', 'Guinevere', 'Faramis']"
-Badang,0.11%,46.66%,0.02%,"['Rafaela', 'Alice', 'Baxia', 'Hanzo', 'Jawhead']"
-Wanwan,0.15%,46.29%,0.04%,"['Barats', 'Pharsa', 'Rafaela', 'Argus', 'Johnson']"
-Tigreal,1.88%,46.20%,8.04%,"['Eudora', 'Freya', 'Kaja', 'Franco', 'Argus']"
-Cyclops,0.18%,46.05%,0.05%,"['Valir', 'Novaria', 'Masha', 'Hilda', 'Chou']"
-Beatrix,0.76%,46.03%,0.05%,"['Wanwan', 'Melissa', 'Balmond', 'Diggie', 'Ling']"
-Martis,0.61%,46.00%,0.20%,"['Badang', 'Kadita', 'Yin', 'Nana', 'Silvanna']"
-Baxia,0.09%,45.94%,0.03%,"['Zilong', 'Jawhead', 'Cyclops', 'Phoveus', 'Vale']"
-Hanzo,0.18%,45.86%,0.23%,"['Barats', 'Diggie', 'Ixia', 'Balmond', 'Martis']"
-Gusion,0.65%,45.78%,0.20%,"['Balmond', 'Hanzo', 'Wanwan', 'Rafaela', 'Nolan']"
-Eudora,0.31%,45.68%,0.22%,"['Irithel', 'Rafaela', 'Harley', 'Joy', 'Hanzo']"
-Chang'e,0.59%,45.64%,0.22%,"['Natalia', 'Kimmy', 'Kadita', 'Hanzo', 'Balmond']"
-Lesley,1.29%,45.57%,0.38%,"['Alice', 'Cyclops', 'Cici', 'Natalia', 'Belerick']"
-Hilda,0.10%,45.49%,0.03%,"['Hanzo', 'Granger', 'Yi Sun-shin', 'Aurora', 'Uranus']"
-Jawhead,0.20%,45.27%,0.04%,"['Harley', 'Paquito', 'Eudora', 'Natalia', 'Nolan']"
-Cici,0.23%,45.22%,0.08%,"['Thamuz', 'Phoveus', 'Aldous', 'Barats', 'Yin']"
-Thamuz,0.22%,45.19%,0.03%,"['Aulus', 'Aldous', 'Jawhead', 'Miya', 'Gloo']"
-Guinevere,0.27%,45.18%,0.02%,"['Estes', 'Pharsa', 'Edith', 'Hilda', 'Uranus']"
-Saber,0.58%,45.05%,24.17%,"['Natalia', 'Nolan', 'Gord', 'Hanzo', 'Wanwan']"
-Layla,0.43%,44.86%,0.92%,"['Baxia', 'Phoveus', 'Diggie', 'Guinevere', 'Irithel']"
-Lapu-Lapu,0.52%,44.74%,0.03%,"['Jawhead', 'Melissa', 'Eudora', 'Cyclops', 'Yve']"
-Franco,1.22%,44.70%,2.01%,"['Nolan', 'Freya', 'Fanny', 'Angela', 'Valentina']"
-Paquito,0.57%,44.61%,0.07%,"['X.Borg', 'Nolan', 'Gord', 'Hanzo', 'Gloo']"
-Selena,0.39%,44.59%,0.10%,"['Balmond', 'Wanwan', 'Gord', 'Hanabi', 'Hanzo']"
-X.Borg,1.00%,44.44%,0.40%,"['Baxia', 'Barats', 'Martis', 'Hylos', 'Valir']"
-Atlas,0.38%,44.36%,0.30%,"['Nana', 'Layla', 'Popol and Kupa', 'Estes', 'Odette']"
-Valir,0.20%,44.35%,0.08%,"['Leomord', 'Tigreal', 'Alucard', 'Silvanna', 'Hilda']"
-Silvanna,0.19%,44.03%,0.02%,"['Aulus', 'Estes', 'Yve', 'Aamon', 'Rafaela']"
-Estes,0.22%,44.01%,1.18%,"['Cyclops', 'Aldous', 'Yi Sun-shin', 'Joy', 'X.Borg']"
-Uranus,0.09%,44.00%,0.02%,"['Balmond', 'Thamuz', 'Miya', 'Argus', 'Irithel']"
-Johnson,0.35%,43.99%,0.45%,"['Hanzo', 'Paquito', 'Natalia', 'Hilda', 'Kimmy']"
-Belerick,0.36%,43.58%,0.80%,"['Miya', 'Karina', 'Franco', 'Badang', 'Minsitthar']"
-Zilong,0.24%,43.55%,0.21%,"['Hanzo', 'Fanny', 'Diggie', 'Nolan', 'Selena']"
-Karrie,0.63%,43.42%,0.07%,"['Balmond', 'Zilong', 'Wanwan', 'Uranus', 'Hylos']"
-Karina,0.27%,42.91%,0.23%,"['Zilong', 'Natalia', 'Wanwan', 'Hilda', 'Hanzo']"
-Lancelot,1.11%,42.25%,0.32%,"['Hanabi', 'Baxia', 'Atlas', 'Balmond', 'Ixia']"
-Nana,0.51%,41.28%,0.49%,"['Badang', 'Silvanna', 'Eudora', 'Rafaela', 'Natalia']"
-Hanabi,0.25%,40.87%,0.06%,"['Eudora', 'Natalia', 'Jawhead', 'Rafaela', 'Popol and Kupa']"
-Esmeralda,0.40%,39.25%,0.48%,"['Phoveus', 'Badang', 'Lolita', 'Hanabi', 'Yin']"
-Balmond,0.07%,29.05%,0.10%,"['Gatotkaca', 'Franco', 'Eudora', 'Vale', 'Tigreal']"
+Hero,Pick Rate,Win Rate,Ban Rate,Best Counter For,Role,Best Lane
+Lolita,0.69%,62.98%,6.75%,"['Granger', 'Cyclops', 'Diggie', 'Bane', 'Bruno']",['Marksman'],['gold lane']
+Freya,0.99%,59.53%,57.75%,"['Faramis', 'Diggie', 'Mathilda', 'Balmond', 'Estes']",['Support'],['roam']
+Zhask,1.94%,59.47%,63.89%,"['Lolita', 'Alice', 'Phoveus', 'Jawhead', 'Zhuxin']",['Mage'],['mid lane']
+Chip,0.66%,57.62%,70.51%,"['Baxia', 'Aldous', 'Grock', 'Hayabusa', 'Valentina']",['Mage'],['mid lane']
+Edith,1.52%,56.71%,2.95%,"['Alice', 'Julian', 'Belerick', 'Fredrinn', 'Hayabusa']",['Assassin'],['jungler']
+Diggie,0.49%,56.06%,13.77%,"['Karrie', 'Silvanna', 'Eudora', 'Karina', 'Alpha']",['Fighter'],"['jungler', 'exp lane']"
+Zhuxin,0.91%,55.65%,85.99%,"['Natalia', 'Lolita', 'Aldous', 'Barats', 'Aulus']",['Fighter'],['jungler']
+Harith,1.45%,54.87%,5.61%,"['Grock', 'Atlas', 'X.Borg', 'Terizla', 'Alpha']",['Fighter'],"['jungler', 'exp lane']"
+Ruby,2.85%,54.82%,13.17%,"['Joy', 'Sun', 'Hayabusa', 'Gloo', 'Masha']","['Fighter', 'Tank']",['exp lane']
+Terizla,3.86%,54.79%,34.36%,"['Popol and Kupa', 'Hilda', 'Baxia', 'Khufra', 'Johnson']","['Tank', 'Support']",['roam']
+Faramis,0.49%,54.59%,0.55%,"['Gloo', 'Kimmy', 'Valir', 'Sun', 'Minsitthar']",['Fighter'],"['exp lane', 'roam']"
+Popol and Kupa,0.86%,54.47%,11.55%,"['Balmond', 'Zilong', 'Phoveus', 'Harley', 'Cyclops']",['Mage'],['mid lane']
+Yve,0.18%,54.07%,0.06%,"['Balmond', 'Belerick', 'Jawhead', 'Alice', 'Hanabi']",['Marksman'],['gold lane']
+Hylos,0.94%,54.05%,11.50%,"['Eudora', 'Layla', 'Cyclops', 'Vale', 'Aamon']",['Assassin'],['jungler']
+Floryn,1.59%,53.70%,17.38%,"['Alice', 'Aulus', 'Phoveus', 'Martis', 'Faramis']","['Support', 'Mage']",['mid lane']
+Masha,0.30%,53.19%,0.85%,"['Gloo', 'Silvanna', 'Fanny', 'Dyrroth', 'Phoveus']",['Fighter'],['exp lane']
+Ling,0.85%,52.97%,97.58%,"['Hanzo', 'Balmond', 'Gord', 'Kimmy', 'Wanwan']",['Marksman'],['gold lane']
+Moskov,2.61%,52.82%,4.68%,"['Gloo', 'Hanzo', 'Joy', 'Balmond', 'Khufra']",['Tank'],['roam']
+Joy,0.50%,52.29%,0.78%,"['Grock', 'Hanzo', 'Uranus', 'Hanabi', 'Sun']",['Fighter'],"['exp lane', 'jungler']"
+Nolan,1.08%,52.23%,3.62%,"['Balmond', 'Yve', 'Faramis', 'Floryn', 'Rafaela']",['Support'],['roam']
+Alice,0.15%,52.16%,0.09%,"['Jawhead', 'Uranus', 'Natalia', 'Belerick', 'Argus']",['Fighter'],['exp lane']
+Bane,1.77%,52.07%,2.37%,"['Phoveus', 'Khufra', 'Faramis', 'Fanny', 'Wanwan']",['Marksman'],['gold lane']
+Natan,1.00%,51.98%,0.75%,"['Sun', 'Valir', 'Hanabi', 'Balmond', 'Phoveus']",['Fighter'],['exp lane']
+Bruno,0.62%,51.96%,0.08%,"['Aulus', 'Kimmy', 'Paquito', 'Balmond', 'Valentina']",['Mage'],['mid lane']
+Mathilda,1.46%,51.86%,21.84%,"['Valir', 'Atlas', 'X.Borg', 'Carmilla', 'Lylia']",['Mage'],['mid lane']
+Yi Sun-shin,0.48%,51.81%,0.15%,"['Badang', 'Vale', 'Valir', 'Benedetta', 'Aulus']",['Fighter'],['jungler']
+Argus,0.47%,51.72%,1.10%,"['Guinevere', 'Aldous', 'Nolan', 'Hanzo', 'Arlott']","['Fighter', 'Assassin']",['exp lane']
+Phoveus,0.07%,51.67%,0.03%,"['Kimmy', 'Guinevere', 'Aldous', 'Martis', 'Hilda']","['Fighter', 'Tank']","['roam', 'exp lane']"
+Arlott,1.14%,51.39%,0.91%,"['Phoveus', 'X.Borg', 'Terizla', 'Ling', 'Kaja']","['Support', 'Fighter']",['roam']
+Ixia,0.42%,51.34%,0.20%,"['Kaja', 'Estes', 'Alice', 'Phoveus', 'Popol and Kupa']",['Marksman'],"['jungler', 'gold lane']"
+Lunox,1.36%,51.18%,1.15%,"['Esmeralda', 'Alice', 'Hanzo', 'Cyclops', 'Mathilda']","['Support', 'Assassin']",['roam']
+Aurora,0.33%,51.05%,0.06%,"['Phoveus', 'Sun', 'Lolita', 'Minsitthar', 'Guinevere']",['Fighter'],['exp lane']
+Minotaur,1.56%,50.86%,3.38%,"['Aulus', 'Jawhead', 'Popol and Kupa', 'Lolita', 'Diggie']",['Support'],['roam']
+Hayabusa,1.13%,50.80%,92.83%,"['Gord', 'Hanabi', 'Vale', 'Granger', 'Atlas']",['Tank'],['roam']
+Khaleed,0.58%,50.80%,0.11%,"['Uranus', 'Gord', 'Badang', 'Gusion', 'Natalia']",['Assassin'],['roam']
+Vexana,1.43%,50.72%,0.68%,"['Gloo', 'Freya', 'Alucard', 'Odette', 'Phoveus']",['Fighter'],['exp lane']
+Roger,4.21%,50.53%,46.15%,"['Hilda', 'Johnson', 'Eudora', 'Irithel', 'Hanabi']",['Marksman'],['gold lane']
+Luo Yi,0.79%,50.40%,2.05%,"['Estes', 'Faramis', 'Phoveus', 'Uranus', 'Fredrinn']","['Fighter', 'Tank']",['jungler']
+Odette,0.53%,50.19%,0.10%,"['Rafaela', 'Phoveus', 'Balmond', 'Aamon', 'Baxia']",['Tank'],['jungler']
+Fredrinn,0.50%,50.12%,0.77%,"['Hilda', 'Phoveus', 'Kimmy', 'Uranus', 'Vale']",['Mage'],['mid lane']
+Angela,1.85%,50.01%,15.61%,"['Balmond', 'Lancelot', 'Alice', 'Phoveus', 'Belerick']",['Tank'],['roam']
+Irithel,0.24%,49.95%,0.03%,"['Rafaela', 'Sun', 'Kimmy', 'Alice', 'Aulus']",['Fighter'],['jungler']
+Gloo,0.19%,49.90%,0.11%,"['Jawhead', 'Nana', 'Vale', 'Odette', ""Chang'e""]",['Mage'],['mid lane']
+Aamon,0.60%,49.73%,1.50%,"['Cici', 'Ling', 'Uranus', 'Hanzo', 'Diggie']",['Support'],['roam']
+Barats,0.31%,49.68%,0.31%,"['Silvanna', 'Eudora', 'Miya', 'Odette', 'Vale']",['Mage'],['mid lane']
+Aldous,0.21%,49.67%,0.08%,"['Hanzo', 'Yve', 'Novaria', 'Gord', 'Gloo']",['Tank'],"['exp lane', 'roam']"
+Carmilla,0.88%,49.51%,1.22%,"['Popol and Kupa', 'Eudora', 'Jawhead', 'Hilda', 'Aamon']",['Assassin'],['jungler']
+Alucard,1.07%,49.50%,0.70%,"['Natalia', 'Nolan', 'Cici', 'Sun', 'Aulus']",['Fighter'],['jungler']
+Harley,0.45%,49.49%,0.49%,"['Balmond', 'Phoveus', 'Badang', 'Hanzo', 'Yve']",['Mage'],['mid lane']
+Melissa,0.47%,49.42%,0.19%,"['Sun', 'Aldous', 'Masha', 'Alucard', 'Hilda']","['Fighter', 'Tank']","['roam', 'exp lane']"
+Valentina,1.78%,49.32%,1.02%,"['Grock', 'Atlas', 'X.Borg', 'Carmilla', 'Lylia']",['Mage'],['mid lane']
+Grock,0.52%,49.31%,0.13%,"['Aulus', 'Vale', 'Thamuz', 'Ixia', 'Melissa']",['Marksman'],['gold lane']
+Natalia,0.16%,49.29%,0.33%,"['Baxia', 'Hanzo', 'Minsitthar', 'Yve', 'Beatrix']",['Marksman'],['gold lane']
+Rafaela,0.15%,49.24%,0.08%,"['Hilda', 'Faramis', 'Thamuz', 'Valir', 'Akai']",['Tank'],"['roam', 'jungler']"
+Benedetta,1.06%,49.09%,0.44%,"['Silvanna', 'Vale', 'Valir', 'Aurora', 'Hanzo']",['Assassin'],['jungler']
+Fanny,1.43%,49.09%,51.39%,"['Balmond', 'Nolan', 'Yve', 'Alice', 'Carmilla']","['Support', 'Tank']",['roam']
+Cecilion,0.73%,49.04%,0.14%,"['Sun', 'Lolita', 'Rafaela', 'Karina', 'Hanabi']",['Marksman'],['gold lane']
+Novaria,0.70%,48.89%,0.13%,"['Aulus', 'Luo Yi', 'Barats', 'Balmond', 'Gord']",['Mage'],['mid lane']
+Brody,0.92%,48.82%,0.10%,"['Uranus', 'Aulus', 'Irithel', 'Hilda', 'Cici']",['Fighter'],['exp lane']
+Lylia,0.87%,48.77%,0.16%,"['Baxia', 'Balmond', 'Aulus', 'Miya', 'Hilda']","['Fighter', 'Tank']","['roam', 'exp lane']"
+Kaja,0.22%,48.67%,0.11%,"['Balmond', 'Hilda', 'Rafaela', 'Zilong', 'Wanwan']",['Marksman'],['gold lane']
+Gatotkaca,0.68%,48.67%,0.40%,"['Zilong', 'Franco', 'Badang', 'Layla', 'Lolita']","['Support', 'Tank']",['roam']
+Leomord,0.47%,48.48%,0.14%,"['Guinevere', 'Balmond', 'Gloo', 'Karina', 'Hanabi']",['Marksman'],['gold lane']
+Kagura,1.19%,48.47%,0.30%,"['Silvanna', 'Badang', 'Wanwan', 'Hanzo', 'Kadita']","['Mage', 'Assassin']",['mid lane']
+Khufra,1.23%,48.47%,0.77%,"['Silvanna', 'Hilda', 'Alucard', 'Layla', 'Guinevere']",['Fighter'],['exp lane']
+Granger,0.49%,48.44%,0.08%,"['Balmond', 'Diggie', 'Rafaela', 'Baxia', 'Alpha']",['Fighter'],"['jungler', 'exp lane']"
+Kimmy,0.12%,48.42%,0.04%,"['Balmond', 'Wanwan', 'Cyclops', 'Thamuz', 'Aulus']",['Fighter'],['jungler']
+Alpha,1.07%,48.38%,0.18%,"['Phoveus', 'Hilda', 'Baxia', 'Gatotkaca', 'Barats']","['Tank', 'Fighter']",['jungler']
+Yu Zhong,2.10%,48.30%,2.69%,"['Aulus', 'Popol and Kupa', 'Belerick', 'Granger', 'Hylos']",['Tank'],['roam']
+Sun,0.30%,48.29%,0.14%,"['Balmond', 'Masha', 'Hanzo', 'Hilda', 'Eudora']",['Mage'],['mid lane']
+Claude,2.55%,48.27%,0.41%,"['Balmond', 'Phoveus', 'Atlas', 'Melissa', 'Hanabi']",['Marksman'],['gold lane']
+Gord,0.18%,48.20%,0.04%,"['Pharsa', 'Hanzo', 'Alice', 'Hilda', 'Phoveus']",['Fighter'],['exp lane']
+Xavier,2.72%,48.20%,8.49%,"['Barats', 'Zhask', 'Baxia', 'Hylos', 'Atlas']",['Tank'],['roam']
+Aulus,0.07%,47.98%,0.03%,"['Balmond', 'Yve', 'Chip', 'Badang', 'Akai']",['Tank'],"['roam', 'jungler']"
+Akai,0.34%,47.86%,0.12%,"['Atlas', 'Silvanna', 'Jawhead', 'Hilda', 'Kadita']","['Mage', 'Assassin']",['mid lane']
+Helcurt,0.93%,47.85%,43.18%,"['Hanzo', 'Layla', 'Granger', 'Gord', 'Xavier']",['Mage'],['mid lane']
+Miya,0.42%,47.65%,0.38%,"['Faramis', 'Masha', 'Balmond', 'Moskov', 'Yi Sun-shin']","['Assassin', 'Marksman']",['jungler']
+Julian,2.16%,47.64%,59.59%,"['Zilong', 'Miya', 'Cici', 'Ling', 'Sun']",['Fighter'],"['exp lane', 'jungler']"
+Pharsa,0.42%,47.62%,0.07%,"['Aulus', 'Phoveus', 'Melissa', 'Alice', 'Valir']",['Mage'],['mid lane']
+Chou,1.04%,47.58%,0.24%,"['Hanzo', 'Valir', 'Freya', 'Uranus', 'Balmond']",['Fighter'],['jungler']
+Clint,1.37%,47.58%,0.93%,"['Belerick', 'Karina', 'Masha', 'Aurora', 'Freya']",['Fighter'],['exp lane']
+Yin,0.55%,47.50%,2.59%,"['Yve', 'Alucard', 'Lolita', 'Hayabusa', 'Xavier']",['Mage'],['mid lane']
+Minsitthar,0.46%,47.39%,0.72%,"['Freya', 'Hilda', 'Uranus', 'Phoveus', 'Lolita']","['Support', 'Tank']",['roam']
+Kadita,0.60%,47.18%,0.10%,"['Odette', 'Aulus', 'Johnson', 'Lolita', 'Aurora']",['Mage'],['mid lane']
+Dyrroth,0.99%,47.08%,0.91%,"['Uranus', 'Alice', 'Lolita', 'Estes', 'Arlott']","['Fighter', 'Assassin']",['exp lane']
+Vale,0.21%,46.96%,0.03%,"['Alucard', 'Odette', 'Hilda', 'Guinevere', 'Faramis']","['Support', 'Mage']",['mid lane']
+Badang,0.11%,46.66%,0.02%,"['Rafaela', 'Alice', 'Baxia', 'Hanzo', 'Jawhead']",['Fighter'],"['exp lane', 'jungler']"
+Wanwan,0.15%,46.29%,0.04%,"['Barats', 'Pharsa', 'Rafaela', 'Argus', 'Johnson']","['Tank', 'Support']",['roam']
+Tigreal,1.88%,46.20%,8.04%,"['Eudora', 'Freya', 'Kaja', 'Franco', 'Argus']",['Fighter'],['exp lane']
+Cyclops,0.18%,46.05%,0.05%,"['Valir', 'Novaria', 'Masha', 'Hilda', 'Chou']",['Fighter'],"['exp lane', 'roam']"
+Beatrix,0.76%,46.03%,0.05%,"['Wanwan', 'Melissa', 'Balmond', 'Diggie', 'Ling']",['Assassin'],['jungler']
+Martis,0.61%,46.00%,0.20%,"['Badang', 'Kadita', 'Yin', 'Nana', 'Silvanna']",['Fighter'],['exp lane']
+Baxia,0.09%,45.94%,0.03%,"['Zilong', 'Jawhead', 'Cyclops', 'Phoveus', 'Vale']",['Mage'],['mid lane']
+Hanzo,0.18%,45.86%,0.23%,"['Barats', 'Diggie', 'Ixia', 'Balmond', 'Martis']",['Fighter'],['jungler']
+Gusion,0.65%,45.78%,0.20%,"['Balmond', 'Hanzo', 'Wanwan', 'Rafaela', 'Nolan']",['Assassin'],['jungler']
+Eudora,0.31%,45.68%,0.22%,"['Irithel', 'Rafaela', 'Harley', 'Joy', 'Hanzo']",['Assassin'],['jungler']
+Chang'e,0.59%,45.64%,0.22%,"['Natalia', 'Kimmy', 'Kadita', 'Hanzo', 'Balmond']",['Fighter'],['jungler']
+Lesley,1.29%,45.57%,0.38%,"['Alice', 'Cyclops', 'Cici', 'Natalia', 'Belerick']",['Tank'],['roam']
+Hilda,0.10%,45.49%,0.03%,"['Hanzo', 'Granger', 'Yi Sun-shin', 'Aurora', 'Uranus']",['Tank'],['exp lane']
+Jawhead,0.20%,45.27%,0.04%,"['Harley', 'Paquito', 'Eudora', 'Natalia', 'Nolan']",['Assassin'],['jungler']
+Cici,0.23%,45.22%,0.08%,"['Thamuz', 'Phoveus', 'Aldous', 'Barats', 'Yin']","['Fighter', 'Assassin']","['jungler', 'exp lane']"
+Thamuz,0.22%,45.19%,0.03%,"['Aulus', 'Aldous', 'Jawhead', 'Miya', 'Gloo']",['Tank'],"['exp lane', 'roam']"
+Guinevere,0.27%,45.18%,0.02%,"['Estes', 'Pharsa', 'Edith', 'Hilda', 'Uranus']",['Tank'],['exp lane']
+Saber,0.58%,45.05%,24.17%,"['Natalia', 'Nolan', 'Gord', 'Hanzo', 'Wanwan']",['Marksman'],['gold lane']
+Layla,0.43%,44.86%,0.92%,"['Baxia', 'Phoveus', 'Diggie', 'Guinevere', 'Irithel']",['Marksman'],['gold lane']
+Lapu-Lapu,0.52%,44.74%,0.03%,"['Jawhead', 'Melissa', 'Eudora', 'Cyclops', 'Yve']",['Mage'],['mid lane']
+Franco,1.22%,44.70%,2.01%,"['Nolan', 'Freya', 'Fanny', 'Angela', 'Valentina']",['Mage'],['mid lane']
+Paquito,0.57%,44.61%,0.07%,"['X.Borg', 'Nolan', 'Gord', 'Hanzo', 'Gloo']",['Tank'],"['exp lane', 'roam']"
+Selena,0.39%,44.59%,0.10%,"['Balmond', 'Wanwan', 'Gord', 'Hanabi', 'Hanzo']",['Assassin'],['jungler']
+X.Borg,1.00%,44.44%,0.40%,"['Baxia', 'Barats', 'Martis', 'Hylos', 'Valir']",['Mage'],['mid lane']
+Atlas,0.38%,44.36%,0.30%,"['Nana', 'Layla', 'Popol and Kupa', 'Estes', 'Odette']",['Mage'],['mid lane']
+Valir,0.20%,44.35%,0.08%,"['Leomord', 'Tigreal', 'Alucard', 'Silvanna', 'Hilda']","['Fighter', 'Tank']","['roam', 'exp lane']"
+Silvanna,0.19%,44.03%,0.02%,"['Aulus', 'Estes', 'Yve', 'Aamon', 'Rafaela']",['Support'],['roam']
+Estes,0.22%,44.01%,1.18%,"['Cyclops', 'Aldous', 'Yi Sun-shin', 'Joy', 'X.Borg']",['Fighter'],['exp lane']
+Uranus,0.09%,44.00%,0.02%,"['Balmond', 'Thamuz', 'Miya', 'Argus', 'Irithel']",['Marksman'],['gold lane']
+Johnson,0.35%,43.99%,0.45%,"['Hanzo', 'Paquito', 'Natalia', 'Hilda', 'Kimmy']","['Marksman', 'Mage']",['gold lane']
+Belerick,0.36%,43.58%,0.80%,"['Miya', 'Karina', 'Franco', 'Badang', 'Minsitthar']",['Fighter'],"['exp lane', 'roam']"
+Zilong,0.24%,43.55%,0.21%,"['Hanzo', 'Fanny', 'Diggie', 'Nolan', 'Selena']","['Assassin', 'Mage']","['roam', 'mid lane']"
+Karrie,0.63%,43.42%,0.07%,"['Balmond', 'Zilong', 'Wanwan', 'Uranus', 'Hylos']",['Tank'],['roam']
+Karina,0.27%,42.91%,0.23%,"['Zilong', 'Natalia', 'Wanwan', 'Hilda', 'Hanzo']",['Assassin'],['jungler']
+Lancelot,1.11%,42.25%,0.32%,"['Hanabi', 'Baxia', 'Atlas', 'Balmond', 'Ixia']",['Marksman'],['gold lane']
+Nana,0.51%,41.28%,0.49%,"['Badang', 'Silvanna', 'Eudora', 'Rafaela', 'Natalia']",['Assassin'],['roam']
+Hanabi,0.25%,40.87%,0.06%,"['Eudora', 'Natalia', 'Jawhead', 'Rafaela', 'Popol and Kupa']",['Marksman'],"['jungler', 'gold lane']"
+Esmeralda,0.40%,39.25%,0.48%,"['Phoveus', 'Badang', 'Lolita', 'Hanabi', 'Yin']","['Fighter', 'Assassin']","['jungler', 'exp lane']"
+Balmond,0.07%,29.05%,0.10%,"['Gatotkaca', 'Franco', 'Eudora', 'Vale', 'Tigreal']",['Tank'],['roam']
